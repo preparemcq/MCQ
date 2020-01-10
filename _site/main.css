@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #ccc;
+  color: darkslategray;
+  font-size: 14px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header{
+  background-color: aliceblue;
+}
+ul{
+  list-style-type: none ;
+}
+ul li{
+  font-size: 14px;
+  background-color: floralwhite;
+  font-weight: 600;
+  padding: 15px;
+}
+main{
+  max-width: 1140px;
+  margin: 0 auto;
+  display: flex;
+}
