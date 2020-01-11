@@ -81,7 +81,7 @@ table { width: 100%; margin: 0 0 20px 0; }
 
 th { text-align: left; border-bottom: 1px dashed #b5e853; padding: 5px 10px; }
 
-td { padding: 5px 10px; }
+td { padding: 5px 10px; border-bottom: 1px solid #b5e853; }
 
 hr { height: 0; border: 0; border-bottom: 1px dashed #b5e853; color: #b5e853; }
 
@@ -110,6 +110,12 @@ a { color: #63c0f5; text-shadow: 0 0 5px rgba(104, 182, 255, 0.5); }
 
 .clay-color { color: #d28445; }
 
-.nd{ color: #f4bf75; padding: 10px 20px;}
+.nd{ 
+  color: #f4bf75; 
+  padding: 10px 20px; 
+  width: 54%;
+  margin: 0 auto;
+  text-align: center;
+}
 
 .nd hr { height: 0; border: 0; border-bottom: 1px solid #f4bf75;; color: #f4bf75;}
